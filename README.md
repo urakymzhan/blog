@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Blog 
+
+1. [Deploy](https://nextjs.org/learn/basics/deploying-nextjs-app/deploy)
